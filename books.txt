@@ -1,0 +1,15 @@
+Python Programming,John Doe,2020,300
+Introduction to Machine Learning,Jane Smith,2019,250
+Data Structures and Algorithms,David Brown,2018,400
+Fareler ve Insanlar,John Steýnbeck,1937,111
+
+Uc Sehir,Mýthat Cemal Kuntay,1938,576
+
+Bes Sehýr,Ahmet Hamdý Tanpýnar,1946,240
+
+Acýmak,Resat Nurý Guntekýn,1928,160
+
+Kuyucaklý Yusuf,Sabahattýn Alý,1937,224
+
+Kurk Mantolu Madonna,Sabahattýn Alý,1943,177
+
